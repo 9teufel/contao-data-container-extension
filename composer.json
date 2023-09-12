@@ -1,9 +1,10 @@
 {
-    "name": "marcosimbuerger/contao-data-container-extension",
+    "name": "9teufel/contao-data-container-extension",
     "description": "Extends the Contao data container.",
     "keywords": ["contao", "datacontainer", "DC"],
     "type": "contao-bundle",
     "license": "LGPL-3.0-or-later",
+    "version": "1.0",
     "authors": [
         {
             "name": "Marco Simbürger",
@@ -11,7 +12,7 @@
         }
     ],
     "require": {
-        "php": "^7.2",
+        "php": ">=7.2",
         "contao/core-bundle": "^4.4"
     },
     "conflict": {
